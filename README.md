@@ -2,6 +2,8 @@
 
 For strategy in playing Pokemon GO. Generates a balanced team of 6 pokemon and their ideal movesets and IVs, uses simulated annealing.
 
+Sample data is based on the PvPoke dataset
+
 ## Analyzing results
 
 Pokemon in a team will be displayed with abbreviated forms of their ideal moveset and IV values (in order being *attack*, *defense*, and *stamina*.)
