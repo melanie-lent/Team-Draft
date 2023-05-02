@@ -5,7 +5,7 @@ def main(argv):
     if len(argv) > 1:
         data_file = "data/" + argv[1]
     else:
-        data_file = "data/h.matrix.p"
+        data_file = "data/l.matrix.p"
 
     if not os.path.exists(data_file):
         raise Exception("{} does not exist.".format(data_file))
